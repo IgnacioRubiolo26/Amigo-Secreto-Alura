@@ -8,12 +8,12 @@
 
 <p> Algunas capturas de pantallas con el codigo que componen el programa</p>
 
-![Image Alt]<img width="475" alt="C1" src="https://github.com/user-attachments/assets/aed39caa-2d94-4e18-bee1-d7ecf64083b2" />
-![Image Alt]<img width="460" alt="C2" src="https://github.com/user-attachments/assets/a4a69520-4bd8-4964-8a65-ab19c5d14431" />
+<img width="475" alt="C1" src="https://github.com/user-attachments/assets/aed39caa-2d94-4e18-bee1-d7ecf64083b2" />
+<img width="460" alt="C2" src="https://github.com/user-attachments/assets/a4a69520-4bd8-4964-8a65-ab19c5d14431" />
 
-![Image Alt]<img width="514" alt="C3" src="https://github.com/user-attachments/assets/913e90bd-151b-4b63-ae9d-ec4d172230c8" />
+<img width="514" alt="C3" src="https://github.com/user-attachments/assets/913e90bd-151b-4b63-ae9d-ec4d172230c8" />
 
-![Image Alt]<img width="310" alt="C4" src="https://github.com/user-attachments/assets/111e86f1-928b-4cbb-bc6f-7c60c692d9f8" />
+<img width="310" alt="C4" src="https://github.com/user-attachments/assets/111e86f1-928b-4cbb-bc6f-7c60c692d9f8" />
 
 
 
